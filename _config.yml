@@ -1,6 +1,7 @@
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-remote_theme:     sighingnow/jekyll-gitbook
+title: Jekyll Gitbook
+longtitle: Jekyll Gitbook
+remote_theme: sighingnow/jekyll-gitbook
 description: I document my journey with computing
 author: bdziurczak
+
 
