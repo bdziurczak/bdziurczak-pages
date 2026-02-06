@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+### bdziurczak-pages: documenting my computing journey
 ---
